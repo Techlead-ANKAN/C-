@@ -16,3 +16,6 @@ Access Modifiers : -
 2) "public" - data and methods are accessible to everyone
 
 3) "protected" - data and methods are accessible inside class and to its iderived class.
+
+
+
